@@ -1,0 +1,14 @@
+C:\Users\erdi\source\repos\Hamburgerci\Hamburgerci\bin\Debug\Hamburgerci.exe.config
+C:\Users\erdi\source\repos\Hamburgerci\Hamburgerci\bin\Debug\Hamburgerci.exe
+C:\Users\erdi\source\repos\Hamburgerci\Hamburgerci\bin\Debug\Hamburgerci.pdb
+C:\Users\erdi\source\repos\Hamburgerci\Hamburgerci\obj\Debug\Hamburgerci.csproj.AssemblyReference.cache
+C:\Users\erdi\source\repos\Hamburgerci\Hamburgerci\obj\Debug\Hamburgerci.Form1.resources
+C:\Users\erdi\source\repos\Hamburgerci\Hamburgerci\obj\Debug\Hamburgerci.Form2.resources
+C:\Users\erdi\source\repos\Hamburgerci\Hamburgerci\obj\Debug\Hamburgerci.Form3.resources
+C:\Users\erdi\source\repos\Hamburgerci\Hamburgerci\obj\Debug\Hamburgerci.Form4.resources
+C:\Users\erdi\source\repos\Hamburgerci\Hamburgerci\obj\Debug\Hamburgerci.Properties.Resources.resources
+C:\Users\erdi\source\repos\Hamburgerci\Hamburgerci\obj\Debug\Hamburgerci.csproj.GenerateResource.cache
+C:\Users\erdi\source\repos\Hamburgerci\Hamburgerci\obj\Debug\Hamburgerci.csproj.CoreCompileInputs.cache
+C:\Users\erdi\source\repos\Hamburgerci\Hamburgerci\obj\Debug\Hamburgerci.exe
+C:\Users\erdi\source\repos\Hamburgerci\Hamburgerci\obj\Debug\Hamburgerci.pdb
+C:\Users\erdi\source\repos\Hamburgerci\Hamburgerci\obj\Debug\Hamburgerci.MyMIDForm.resources
