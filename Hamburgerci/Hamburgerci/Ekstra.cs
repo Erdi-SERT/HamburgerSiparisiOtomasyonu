@@ -10,5 +10,7 @@ namespace Hamburgerci
     {
         public string EkstraAdi{ get; set; }
         public decimal Fiyatı{ get; set; }// virgüllü rakam
+
+        //Bu yazı buraay git commandsşeri çalışmak için eklendi
     }
 }
