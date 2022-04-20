@@ -12,5 +12,7 @@ namespace Hamburgerci
         public decimal Fiyatı{ get; set; }// virgüllü rakam
 
         //Bu yazı buraay git commandsşeri çalışmak için eklendi
+
+        //Deneme
     }
 }
