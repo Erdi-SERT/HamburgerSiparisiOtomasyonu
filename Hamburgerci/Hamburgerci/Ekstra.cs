@@ -14,5 +14,7 @@ namespace Hamburgerci
         //Bu yazı buraay git commandsşeri çalışmak için eklendi
 
         //Deneme
+
+        //Deneme1
     }
 }
