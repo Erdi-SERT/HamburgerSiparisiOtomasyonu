@@ -9,6 +9,10 @@ namespace Hamburgerci
     public class Ekstra
     {
         public string EkstraAdi{ get; set; }
-        public decimal Fiyatı{ get; set; }// virgüllü rakam
+        public decimal Fiyatı{ get; set; }
+
+        //Bu yazı buraay git commandsleri çalışmak için eklendi
+        
+
     }
 }
